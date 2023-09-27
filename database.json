@@ -1,0 +1,44 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": true
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": false
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": false
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "text": "When does a joke become a dad joke? When it becomes apparent",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "Why shouldn't you trust trees? They seem shady",
+      "told": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "text": "What do you call it when Batman skips church? Christian Bale",
+      "told": true
+    },
+    {
+      "text": "I keep all of my dad jokes in a dad-abase",
+      "told": false,
+      "id": 9
+    }
+  ]
+}
